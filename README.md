@@ -6,3 +6,4 @@ Una web de ejemplo para aprender los comandos git
 * Comandos de git
 * Flujo de trabajo con github
 * Trabajo con ramas
+* Incluye ejemplos en gitlab
